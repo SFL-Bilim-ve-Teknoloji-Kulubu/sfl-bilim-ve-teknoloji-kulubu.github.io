@@ -2,13 +2,18 @@
 main:
   - title: "Hakkında"
     url: hakkinda
-   - title: "Projeler ve Çalışmalar"
+
+  - title: "Projeler ve Çalışmalar"
     url: projeler
+
   - title: "Duyurular"
     url: duyurular
+
   - title: "Haberler"
     url: haberler
+
   - title: "Takvim"
     url: takvim
+    
   - title: "İletişim"
     url: iletisim
