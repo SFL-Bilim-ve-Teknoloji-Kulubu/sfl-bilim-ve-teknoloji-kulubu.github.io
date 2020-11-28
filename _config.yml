@@ -21,9 +21,9 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "SFL Bilim ve Teknoloji Kulübü"
 description              : "SFL Bilim ve Teknoloji Kulübü İnternet Sitesi"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://sflbilimveteknoloji.co"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "SFL-Bilim-ve-Teknoloji-Kulubu/sfl-bilim-ve-teknoloji-kulubu.github.io"
 teaser                   : "/assets/img/logo.png"
 logo                     : "/assets/img/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
