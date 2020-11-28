@@ -1,13 +1,13 @@
 ---
 layout: single
-title: Duyurular
-permalink: pretty
+permalink: /haberler/
+title: Haberler
 ---
 
-{% assign posts = paginator.posts | default: site.categories.Duyurular %}
+{% assign posts = paginator.posts | default: site.categories.Haberler %}
 
 <div class="posts-list">
-  {% for post in site.categories.Duyurular %}
+  {% for post in site.categories.Haberler %}
   <article class="post-preview">
 
     {%- capture thumbnail -%}

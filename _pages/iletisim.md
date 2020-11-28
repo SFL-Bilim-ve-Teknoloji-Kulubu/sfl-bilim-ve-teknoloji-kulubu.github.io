@@ -1,6 +1,6 @@
 ---
 layout: single
+permalink: /iletisim/
 title: İletişim
-permalink: pretty
 ---
 

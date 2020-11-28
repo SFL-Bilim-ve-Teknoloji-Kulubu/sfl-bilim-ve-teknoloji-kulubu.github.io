@@ -1,5 +1,5 @@
 ---
 layout: single
+permalink: /hakkinda/
 title: Hakkında
-permalink: pretty
 ---

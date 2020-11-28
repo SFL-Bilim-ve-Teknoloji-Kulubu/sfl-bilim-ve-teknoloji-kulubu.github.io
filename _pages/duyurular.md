@@ -1,13 +1,13 @@
 ---
 layout: single
-title: Projeler ve Çalışmalar
-permalink: pretty
+permalink: /duyurular/
+title: Duyurular
 ---
 
-{% assign posts = paginator.posts | default: site.categories.Projeler %}
+{% assign posts = paginator.posts | default: site.categories.Duyurular %}
 
 <div class="posts-list">
-  {% for post in site.categories.Projeler %}
+  {% for post in site.categories.Duyurular %}
   <article class="post-preview">
 
     {%- capture thumbnail -%}
