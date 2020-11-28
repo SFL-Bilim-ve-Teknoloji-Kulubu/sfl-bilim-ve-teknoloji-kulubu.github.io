@@ -9,7 +9,9 @@ tags:
   - lists
   - markup
 
-thumbnail: "https://via.placeholder.com/150/FFFF00/000000?Text=BruhMoment"
+cover-img: https://via.placeholder.com/150/FFFF00/000000?Text=BruhMoment
+thumbnail-img: https://via.placeholder.com/150/FFFF00/000000?Text=BruhMoment
+
 ---
 
 Nested and mixed lists are an interesting beast. It's a corner case to make sure that
