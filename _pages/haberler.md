@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Haberler
+permalink: pretty
 ---
 
 {% assign posts = paginator.posts | default: site.categories.Haberler %}

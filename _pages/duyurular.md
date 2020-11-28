@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Duyurular
+permalink: pretty
 ---
 
 {% assign posts = paginator.posts | default: site.categories.Duyurular %}

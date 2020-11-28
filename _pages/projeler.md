@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Projeler ve Çalışmalar
+permalink: pretty
 ---
 
 {% assign posts = paginator.posts | default: site.categories.Projeler %}
