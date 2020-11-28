@@ -2,6 +2,8 @@
 layout: single
 permalink: /projeler/
 title: Projeler ve Çalışmalar
+classes: wide
+
 ---
 
 {% assign posts = paginator.posts | default: site.categories.Projeler %}

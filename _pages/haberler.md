@@ -2,6 +2,8 @@
 layout: single
 permalink: /haberler/
 title: Haberler
+classes: wide
+
 ---
 
 {% assign posts = paginator.posts | default: site.categories.Haberler %}

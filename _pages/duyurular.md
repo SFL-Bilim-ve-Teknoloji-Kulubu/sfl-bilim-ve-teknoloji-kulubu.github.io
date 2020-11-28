@@ -2,6 +2,8 @@
 layout: single
 permalink: /duyurular/
 title: Duyurular
+classes: wide
+
 ---
 
 {% assign posts = paginator.posts | default: site.categories.Duyurular %}
