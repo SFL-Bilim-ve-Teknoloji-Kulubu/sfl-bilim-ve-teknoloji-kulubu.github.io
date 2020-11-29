@@ -12,5 +12,9 @@ main:
   - title: "Haberler"
     url: haberler
 
+  - title: "Dergi"
+    url: dergi
+
   - title: "İletişim"
     url: iletisim
+
