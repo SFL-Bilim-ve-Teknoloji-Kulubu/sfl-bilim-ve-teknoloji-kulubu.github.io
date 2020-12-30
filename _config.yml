@@ -242,16 +242,36 @@ compress_html:
     envs: development
 
 
+collections:
+  projeler:
+    output: true
+    permalink: /projeler/:path/
+  haberler:
+    output: true
+    permalink: /haberler/:path/
+
+
 # Defaults
 defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: projeler
     values:
       layout: single
-      author_profile: true
-      read_time: true
+      author_profile: false
+      read_time: false
+      comments: # true
+      share: true
+      related: true
+
+  - scope:
+      path: ""
+      type: haberler
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
       comments: # true
       share: true
       related: true
