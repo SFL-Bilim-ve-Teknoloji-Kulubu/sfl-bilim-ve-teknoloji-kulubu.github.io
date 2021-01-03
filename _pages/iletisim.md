@@ -5,10 +5,12 @@ title: İletişim
 classes: wide
 
 ---
-|  Gökhan GÜLLER  | gokhanguller@sflbilimveteknoloji.co    |
-|:---------------:|----------------------------------------|
-| Rüzgar ERİK     | ruzgarerik@sflbilimveteknoloji.co      |
-| Emirhan FIRTINA | emirhanfirtina @sflbilimveteknoloji.co |
+| Ad Soyad         | Eposta Adresi                         |
+|------------------|---------------------------------------|
+| Genel E-Postalar | info@sflbilimveteknoloji.co           |
+|   Gökhan GÜLLER  | gokhanguller@sflbilimveteknoloji.co   |
+| Rüzgar ERİK      | ruzgarerik@sflbilimveteknoloji.co     |
+| Emirhan FIRTINA  | emirhanfirtina@sflbilimveteknoloji.co |
 
 <a href="http://sflbilimveteknoloji.co/pgp/Sivas Fen Lisesi Bilim ve Teknoloji Kulübü_0x683C12EE_public.asc" target="_blank">PGP Açık Anahtarımız</a>
 
