@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "tr-TR"
@@ -105,7 +105,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/SFL-Bilim-ve-Teknoloji-Kulubu"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -114,7 +114,13 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/sflbilimveteknoloji/"
+
+    - label: "E-Posta"
+      icon: "fab fa-fw fa-envelope"
+      url: "mailto:info@sflbilimveteknoloji.co"
+
+
 
 
 # Reading Files
