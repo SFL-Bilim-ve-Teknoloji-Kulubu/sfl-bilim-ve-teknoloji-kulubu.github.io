@@ -5,10 +5,8 @@ title: İletişim
 classes: wide
 
 ---
-İletişim E-Posta Adresleri
-|Ad Soyad| Eposta|
-|:---------------:|----------------------------------------|
 |  Gökhan GÜLLER  | gokhanguller@sflbilimveteknoloji.co    |
+|:---------------:|----------------------------------------|
 | Rüzgar ERİK     | ruzgarerik@sflbilimveteknoloji.co      |
 | Emirhan FIRTINA | emirhanfirtina @sflbilimveteknoloji.co |
 
